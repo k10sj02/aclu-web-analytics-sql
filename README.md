@@ -1,6 +1,6 @@
 # ACLU x SQL Web Analytics
 
-This repository contains SQL queries and data analysis scripts created for an interview exercise with the American Civil Liberties Union (ACLU). The exercises include querying data related to website analytics and generating insights for the ACLU's web team. The queries cover various aspects such as user engagement, revenue analysis, and page views over time. Additionally, the repository includes visualizations and recommendations based on the analysis performed. The exercises are structured to demonstrate proficiency in SQL querying, data analysis, and presentation of insights to support decision-making processes.
+This repository contains SQL queries and data analysis scripts created for an interview exercise with the American Civil Liberties Union (ACLU). The exercises include querying data related to website analytics and generating insights for the ACLU's web team. The queries cover various aspects such as user engagement, revenue analysis, and page views over time. Additionally, the repository includes visualizations (Tableau) and recommendations based on the analysis performed. The exercises are structured to demonstrate proficiency in SQL querying, data analysis, and presentation of insights to support decision-making processes.
 
 ## Report
 
