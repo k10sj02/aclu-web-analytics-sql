@@ -35,7 +35,7 @@ As older social media platforms experience a decline in engagement, I would sugg
 Fridays emerge as the peak day for both page visits and donations, emphasizing the significance of scheduling campaigns and communications during high-engagement periods.
 
 ### Donor Value:
-Identifying and engaging active donors, such as Donor 164904200849, who has made significant contributions, is crucial for sustaining support. Creating user personas for top donors can provide valuable insights into the motivations and behaviors of this cohort,, aiding in donor retention and engagement efforts.
+Identifying and engaging active donors, such as Donor 164904200849, who has made significant contributions, is crucial for sustaining support. Creating user personas for top donors can provide valuable insights into the motivations and behaviors of this cohort, aiding in donor retention and engagement efforts.
 
 ### Follow-up Questions for the Web Team:
 1. What specific metrics or KPIs does the Web team prioritize, and how do they align with organizational goals?
