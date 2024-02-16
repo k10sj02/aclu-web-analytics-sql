@@ -15,8 +15,12 @@ Conversely, Android users lag behind in both revenue and average gift size metri
 
 We may conjecture that older donors, typically possessing higher net worth, may favor Windows devices for their donation activities. While their contributions may be less frequent, their inclination towards larger donations could be attributed to their higher net worth and perhaps a preference for 'traditional' computing devices such as desktops and laptops.
 
+![Sheet 2](https://github.com/k10sj02/aclu-web-analytics-sql/assets/35823259/13332e78-e625-41c9-9720-baef93a738da)
+
 ### Engagement Analysis:
 Our data uncovers valuable insights into user behavior on our website. The issues page emerges as the focal point of activity, closely followed by news and homepage. iOS users demonstrate a notable preference for the issues page, likely reflecting a younger demographic's interest in trending topics. Conversely, Windows users, often more mature and deeply committed to the ACLU, gravitate towards blog content which helps them to feel like a part of the mission. Enhancing individualized user content and calls-to-action on these pages could substantially boost engagement and conversions.
+
+![monthly-page-visits](https://github.com/k10sj02/aclu-web-analytics-sql/assets/35823259/d0381bc4-686a-4802-8317-32f08beed370)
 
 ### Referral Source Analysis:
 
