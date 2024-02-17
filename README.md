@@ -1,6 +1,6 @@
-# ACLU x SQL Web Analytics
+# SQL Web Analytics
 
-This repository contains SQL queries and data analysis scripts created for an interview exercise with the American Civil Liberties Union (ACLU). The exercises include querying data related to website analytics and generating insights for the ACLU's web team. The queries cover various aspects such as user engagement, revenue analysis, and page views over time. Additionally, the repository includes visualizations (Tableau) and recommendations based on the analysis performed. The exercises are structured to demonstrate proficiency in SQL querying, data analysis, and presentation of insights to support decision-making processes.
+This repository houses SQL queries and data analysis scripts focused on website analytics. These tools are designed to generate insights specifically tailored for a fictional web team within a prominent political advocacy organization. The queries cover various aspects such as user engagement, revenue analysis, and page views over time. Additionally, the repository includes visualizations (Tableau) and recommendations based on the analysis performed. The exercises are structured to demonstrate proficiency in SQL querying, data analysis, and presentation of insights to support decision-making processes.
 
 ## Report
 
@@ -18,7 +18,7 @@ We may conjecture that older donors, typically possessing higher net worth, may 
 ![Sheet 2](https://github.com/k10sj02/aclu-web-analytics-sql/assets/35823259/13332e78-e625-41c9-9720-baef93a738da)
 
 ### Engagement Analysis:
-Our data uncovers valuable insights into user behavior on our website. The issues page emerges as the focal point of activity, closely followed by news and homepage. iOS users demonstrate a notable preference for the issues page, likely reflecting a younger demographic's interest in trending topics. Conversely, Windows users, often more mature and deeply committed to the ACLU, gravitate towards blog content which helps them to feel like a part of the mission. Enhancing individualized user content and calls-to-action on these pages could substantially boost engagement and conversions.
+Our data uncovers valuable insights into user behavior on our website. The issues page emerges as the focal point of activity, closely followed by news and homepage. iOS users demonstrate a notable preference for the issues page, likely reflecting a younger demographic's interest in trending topics. Conversely, Windows users, often more mature and deeply committed to the organization, gravitate towards blog content which helps them to feel like a part of the mission. Enhancing individualized user content and calls-to-action on these pages could substantially boost engagement and conversions.
 
 ![monthly-page-visits](https://github.com/k10sj02/aclu-web-analytics-sql/assets/35823259/d0381bc4-686a-4802-8317-32f08beed370)
 
